@@ -1,6 +1,6 @@
 
 
-[![fuxianJia](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/JiaFxian)
+[![fuxianJia](https://badgen.net/badge/Github/Jiafuxian/blue?icon=github)](https://github.com/JiaFxian)
 
 He is currently pursuing a Master's Degree in Electronic Information Engineering, at School of City University of Hong Kong.
 
