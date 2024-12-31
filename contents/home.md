@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![fuxianJia](https://github.com/JiaFxian)](https://github.com/JiaFxian)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Electronic Information Engineering, at School of City University of Hong Kong.
 
 #### Email
-sli[at]cumt.edu.cn
+fxjia2-c[at]my.cityu.edu.hk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Electronic Information Engineering, Hong Kong, China City University of Hong Kong, 2024—2025 (expected).\
+B.E., Electronic Information Engineering, China Southwest University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Machine Learning, Artificial Intelligence, Data Minning, Wireless System.
